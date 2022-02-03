@@ -1,5 +1,4 @@
 - 👋 Hi, I am Ankita Saha.
-- 👀 I am immensely passionate about software Design and Development and currently working as a FullStack Developer in Intel. 
 - 📫 www.linkedin.com/in/ankitasaha450
 
 <!---
